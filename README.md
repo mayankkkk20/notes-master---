@@ -1,2 +1,8 @@
-# notes-master---
-This applications is the one stop solution for all your thoughts to keep track your ideas just write a note on your and that idea is always a step ahead from you just open the application and your idea is in your hand 
+# Note-Sharing-App
+
+<i>README</i>
+
+<div>
+  <p>To know the basic concepts behind creating this app click the link below</p>
+  <a href="https://github.com/creative-tutorials/Note-Sharing-App/blob/master/Basic%20Concepts.md">Go the file</a>
+</div>
